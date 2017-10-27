@@ -1,2 +1,2 @@
-# sistema-turma-1
+# MyLib
 Sistema da Turma 1
